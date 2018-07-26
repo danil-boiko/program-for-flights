@@ -1,1 +1,1 @@
-Ñonverts flight data in a cvs file into a readable form
+Converts flight data in a cvs file into a readable form
